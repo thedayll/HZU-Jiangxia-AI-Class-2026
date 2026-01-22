@@ -99,12 +99,6 @@ $分支提交pr
 
     # 推送到你的GitHub（注意：推送到分支，不是main！）
     git push origin 目的分支名称
-    # 输出会提示你创建PR的链接
-4创建PR
-    访问Fork副本仓库：https://github.com/yzc2453/HZU-Jiangxia-AI-Class-2026
-        会看到提示：Your recently pushed branches
-    点击 Compare & pull request
-    确保设置：
-        base: chenziyang110/main（老师仓库）
-        compare: yzc2453/add-notes-20250121（你的分支）
+
+
 
